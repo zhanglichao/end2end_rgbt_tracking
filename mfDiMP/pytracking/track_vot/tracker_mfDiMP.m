@@ -1,0 +1,13 @@
+
+runfile = 'run_debug_lichao_comb23_2';
+tracker_label = [runfile];
+
+tracker_command = generate_python_command(runfile, ...
+    {'/home/lichao/projects/mfDiMP/pytracking/track_vot',...
+    '/home/lichao/tracking/vot/traxs/trax-channels/support/python'});
+
+tracker_interpreter = 'python';
+
+tracker_linkpath = {'/home/lichao/tracking/vot/traxs/trax-channels/build',...
+		'/home/lichao/tracking/vot/traxs/trax-channels/build/support/client',...
+		'/home/lichao/tracking/vot/traxs/trax-channels/build/support/opencv'};
