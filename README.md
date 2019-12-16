@@ -9,7 +9,7 @@ The paper is published in ICCVW 2019 (VOT2019).
 Please cite our paper if you are inspired by this idea.
 
 ```
-@InProceedings{Zhang_2019_ICCV,
+@InProceedings{Zhang_2019_ICCVW,
 author = {Zhang, Lichao and Danelljan, Martin and Gonzalez-Garcia, Abel and van de Weijer, Joost and Shahbaz Khan, Fahad},
 title = {Multi-Modal Fusion for End-to-End RGB-T Tracking},
 booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
