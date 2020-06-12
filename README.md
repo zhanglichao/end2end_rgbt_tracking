@@ -24,7 +24,8 @@ We propose an end-to-end tracking framework for fusing the RGB and TIR modalitie
 
 ## Pre-trained models
 
-The pre-trained [mfDiMP](https://drive.google.com/open?id=1b3ehR2NfOkeNlQNr9SDUqDXOqvYl-es1)
+The pre-trained [mfDiMP](https://drive.google.com/open?id=1b3ehR2NfOkeNlQNr9SDUqDXOqvYl-es1);
+
 The pre-trained [DiMP](https://drive.google.com/file/d/13wD9EwQpoyWz7RaEB57AakKfwgQ1ufcG/view?usp=sharing）
 
 ## Raw results
